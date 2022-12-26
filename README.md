@@ -1,6 +1,6 @@
 # STATS534
 
-This final project involves parallel programming in C/C++ 
+This final project involves parallel programming in C/C++,R 
 that sample parameter beta from a posterior distribution
 
 1) Posterior mode is estimated via Newton Ralphson root-finding algorithm
